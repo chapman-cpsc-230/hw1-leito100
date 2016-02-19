@@ -8,11 +8,18 @@
 
 ## Description
 
-_ In Section 1.3 <Give a description of the assignment here. Often this will be copied from the text.\>_
+_ In section 1.3 one had to write a program to see if a baby would live one billion seconds, therefore converting seconds into years. 
+  In section 1.6 one had to write a program for the amount of money after an interest 3 years later.
+  In section 1.9 one had to fix syntax errors written in the code.  
+
+
+<Give a description of the assignment here. Often this will be copied from the text.\>_
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+_ In these sections I learned how to print something with both the variable in words and what it represents in numbers. I also learned alot of syntax from fixing errors in section 1.9. 
+
+
 
 ## Honor Pledge
 
